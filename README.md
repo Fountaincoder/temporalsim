@@ -1,6 +1,6 @@
 # Temporal Simulator
 
-Start of a simulator for a general temporal system. Current WIP and we have a work GCD demonstration.
+Start of a simulator for a general temporal system. Current WIP, we have a working GCD demonstration.
 
 # How to run
 
